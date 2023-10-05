@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Кошка"+ cat);
         var paper=763789;
         System.out.println("Бумага"+ paper);
+
     }
 }
