@@ -44,6 +44,9 @@ public class Main {
         System.out.println("Общая масса "+ totalWeight+"кг");
         var weightDifference=boxer2-boxer1;
         System.out.println("Разница в весе "+ weightDifference+"кг");
+        var overWeight=boxer2%boxer1;
+        System.out.println("Разница в весе "+overWeight+"кг");
+
 
 
 
