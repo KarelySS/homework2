@@ -15,12 +15,12 @@ public class Main {
         paper=paper+4;
         System.out.println("Бумага"+ paper);
 
-        var Dog=8.0-3.5;
-        System.out.println("Собака"+ Dog);
-        var Cat=3.6-1.6;
-        System.out.println("Кошка"+ Cat);
-        var Paper=763789-7639;
-        System.out.println("Бумага"+ Paper);
+        var resault1=8.0-3.5;
+        System.out.println("Собака"+ resault1);
+        var resault2=3.6-1.6;
+        System.out.println("Кошка"+ resault2);
+        var resault3=763789-7639;
+        System.out.println("Бумага"+ resault3);
 
 
 
