@@ -8,5 +8,13 @@ public class Main {
         var paper=763789;
         System.out.println("Бумага"+ paper);
 
+        dog=dog+4;
+        System.out.println("Собака"+ dog);
+        cat=cat+4;
+        System.out.println("Кошка"+ cat);
+        paper=paper+4;
+        System.out.println("Бумага"+ paper);
+
+
     }
 }
