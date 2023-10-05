@@ -38,7 +38,12 @@ public class Main {
         frog=frog+4;
         System.out.println("Лягушка "+ frog);
 
-
+        var boxer1=78.2;
+        var boxer2=82.7;
+        var totalWeight=boxer1+boxer2;
+        System.out.println("Общая масса "+ totalWeight+"кг");
+        var weightDifference=boxer2-boxer1;
+        System.out.println("Разница в весе "+ weightDifference+"кг");
 
 
 
